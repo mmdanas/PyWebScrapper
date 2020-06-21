@@ -1,0 +1,1050 @@
+<!DOCTYPE html>
+
+<!--[if IE 9 ]> <html lang="en-GB" prefix="og: http://ogp.me/ns#" class="ie9 loading-site no-js"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en-GB" prefix="og: http://ogp.me/ns#" class="ie8 loading-site no-js"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="loading-site no-js" lang="en-GB" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<link href="https://animemotivation.com/xmlrpc.php" rel="pingback"/>
+<script type="text/javascript">
+
+            // 
+            // Get screen dimensions, device pixel ration and set in a cookie.
+            // 
+            
+                            var screen_width = screen.width;
+            
+            var devicePixelRatio = window.devicePixelRatio ? window.devicePixelRatio : 1;
+
+            document.cookie = 'resolution=' + screen_width + ',' + devicePixelRatio + '; SameSite=Strict; path=/';
+
+        </script>
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<script type="text/javascript">
+var trackScrolling=false;
+var trackScrollingPercentage=false;
+var ScrollingPercentageNumber=50;
+var stLogInterval=30*1000;
+var cutOffTime=1800;
+var trackNoEvents=false;
+var trackNoMaxTime=true;
+var docTitle='53+ Of The BEST Avatar: The Last Airbender Quotes That Will Blow You Away';
+</script>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/><link href="https://biddr.brealtime.com" rel="preconnect"/><link href="https://ajax.cloudflare.com" rel="preconnect"/><link href="https://securepubads.g.doubleclick.net" rel="preconnect"/><link href="https://adservice.google.com" rel="preconnect"/><link href="https://onesignal.com" rel="preconnect"/><link href="https://tpc.googlesyndication.com" rel="preconnect"/><link crossorigin="crossorigin" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://pagead2.googlesyndication.com" rel="preconnect"/><link href="//resources.infolinks.com" rel="preconnect"/>
+<title>53+ Avatar: The Last Airbender Quotes That Will Blow You Away</title>
+<meta content="If you're a fan of the avatar: The Last Airbender anime series, here's a collection of the BEST quotes you'll ever need. Taken from each character." name="description"/>
+<meta content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" name="robots"/>
+<link href="https://animemotivation.com/avatar-the-last-airbender-quotes/" rel="canonical">
+<meta content="en_GB" property="og:locale"/>
+<meta content="article" property="og:type"/>
+<meta content="53+ Avatar: The Last Airbender Quotes That Will Blow You Away" property="og:title"/>
+<meta content="If you're a fan of the avatar: The Last Airbender anime series, here's a collection of the BEST quotes you'll ever need. Taken from each character." property="og:description"/>
+<meta content="https://animemotivation.com/avatar-the-last-airbender-quotes/" property="og:url"/>
+<meta content="Anime Motivation" property="og:site_name"/>
+<meta content="https://www.facebook.com/animemotivate/" property="article:publisher"/>
+<meta content="https://www.facebook.com/animemotivate" property="article:author"/>
+<meta content="Anime Quotes" property="article:section"/>
+<meta content="2020-05-21T10:49:02+01:00" property="og:updated_time"/>
+<meta content="1724159237848926" property="fb:app_id"/>
+<meta content="https://animemotivation.com/wp-content/uploads/2019/09/avatar-anime-wallpaper.jpg" property="og:image"/>
+<meta content="https://animemotivation.com/wp-content/uploads/2019/09/avatar-anime-wallpaper.jpg" property="og:image:secure_url"/>
+<meta content="1021" property="og:image:width"/>
+<meta content="638" property="og:image:height"/>
+<meta content="53+ Of The BEST Avatar: The Last Airbender Quotes That Will Blow You Away" property="og:image:alt"/>
+<meta content="image/jpeg" property="og:image:type"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="53+ Avatar: The Last Airbender Quotes That Will Blow You Away" name="twitter:title"/>
+<meta content="If you're a fan of the avatar: The Last Airbender anime series, here's a collection of the BEST quotes you'll ever need. Taken from each character." name="twitter:description"/>
+<meta content="@animemotivate" name="twitter:site"/>
+<meta content="@animemotivate" name="twitter:creator"/>
+<meta content="https://animemotivation.com/wp-content/uploads/2019/09/avatar-anime-wallpaper.jpg" name="twitter:image"/>
+<link href="//s.w.org" rel="dns-prefetch">
+<link href="https://animemotivation.com/wp-content/plugins/aryo-widget-device/assets/css/style.css" id="awd-style-css" media="all" rel="stylesheet" type="text/css">
+<style id="awd-style-inline-css" type="text/css">
+#lstc-comment-subscription label.lstc-label {
+						display: inline-block;
+						vertical-align: middle;
+					}
+					#lstc-comment-subscription {
+						margin-top: 1em;
+					}
+					#lstc-comment-subscription input#lstc_subscribe {
+						margin-right: 0.5em;
+					}
+</style>
+<link href="https://animemotivation.com/wp-content/plugins/wp-date-remover/public/css/wp-date-remover-public.css" id="wp-date-remover-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://animemotivation.com/wp-content/themes/flatsome/style.css" id="orbisius_ct_flatsome_child_theme_parent_style-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://animemotivation.com/wp-content/themes/flatsome-child-theme/style.css" id="orbisius_ct_flatsome_child_theme_parent_style_child_style-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://animemotivation.com/wp-content/themes/flatsome/assets/css/fl-icons.css" id="flatsome-icons-css" media="all" rel="stylesheet" type="text/css">
+<link href="https://animemotivation.com/wp-content/plugins/dco-comment-attachment/assets/dco-comment-attachment.css" id="dco-comment-attachment-css" media="all" rel="stylesheet" type="text/css">
+<link href="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.fadein.css" id="jquery-lazyloadxt-fadein-css-css" media="all" rel="stylesheet" type="text/css">
+<link href="//animemotivation.com/wp-content/uploads/sass/a3_lazy_load.min.css" id="a3a3_lazy_load-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="https://animemotivation.com/wp-content/themes/flatsome/assets/css/flatsome.css" id="flatsome-main-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript"></script>
+<script src="https://animemotivation.com/wp-content/plugins/wp-date-remover/public/js/wp-date-remover-public.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wbcr_clearfy_async_links = {"wbcr_clearfy-google-fonts":"\/\/fonts.googleapis.com\/css?family=Open%20Sans:regular,700,regular,regular,regular&display=swap"};
+/* ]]> */
+</script>
+<script src="https://animemotivation.com/wp-content/plugins/clearfy/assets/js/css-lazy-load.min.js" type="text/javascript"></script>
+<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-75487473-1', 'auto');
+			ga('require', 'displayfeatures');
+			ga('require', 'linkid');
+			ga('set', 'anonymizeIp', true);
+			ga('set', 'forceSSL', true);
+			ga('send', 'pageview');
+		</script>
+<script type="application/ld+json">[{"@context":"http:\/\/schema.org\/","@type":"WPHeader","url":"https:\/\/animemotivation.com\/avatar-the-last-airbender-quotes\/","headline":"53+ Of The BEST Avatar: The Last Airbender Quotes That Will Blow You Away","description":" Avatar: The Last Airbender Quotes taken from these characters: Piandao. Lion Turtle. Zuko. Iroh. Azula. Sokka. King Bumi. Toph..."},{"@context":"http:\/\/schema.org\/","@type":"WPFooter","url":"https:\/\/animemotivation.com\/avatar-the-last-airbender-quotes\/","headline":"53+ Of The BEST Avatar: The Last Airbender Quotes That Will Blow You Away","description":" Avatar: The Last Airbender Quotes taken from these characters: Piandao. Lion Turtle. Zuko. Iroh. Azula. Sokka. King Bumi. Toph...","copyrightYear":false}]</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/animemotivation.com\/avatar-the-last-airbender-quotes\/"},"url":"https:\/\/animemotivation.com\/avatar-the-last-airbender-quotes\/","headline":"53+ Of The BEST Avatar: The Last Airbender Quotes That Will Blow You...","datePublished":false,"dateModified":"2020-05-21T10:49:02+01:00","publisher":{"@type":"Organization","@id":"https:\/\/animemotivation.com\/#organization","name":"Anime Motivation","logo":{"@type":"ImageObject","url":"https:\/\/animemotivation.com\/wp-content\/uploads\/2018\/08\/anime-motivation-store-logo.png","width":600,"height":60}},"image":{"@type":"ImageObject","url":"https:\/\/animemotivation.com\/wp-content\/uploads\/2019\/09\/avatar-anime-wallpaper.jpg","width":1021,"height":638},"articleSection":"Anime Quotes","description":" Avatar: The Last Airbender Quotes taken from these characters: Piandao. Lion Turtle. Zuko. Iroh. Azula. Sokka. King Bumi. Toph Bei Fong. Roku. Pathik. Sozin. Katara. Ty Lee. Mai. Aang. Jeong Jeong. Avatar: The Last Airbender is considered a great anime within the community. Even if it's not a native anime made back in","author":{"@type":"Person","name":"Anime Motivation","url":"https:\/\/animemotivation.com\/author\/Anime%20Motivation\/","description":"I'm Hikari Yorokobi. The official mascot for Anime Motivation.","image":{"@type":"ImageObject","url":"https:\/\/animemotivation.com\/wp-content\/litespeed\/avatar\/004ebf8028f06ddaaca58ff0bf675e3a.jpg","height":96,"width":96},"sameAs":["https:\/\/animemotivation.com","https:\/\/www.facebook.com\/animemotivate","https:\/\/twitter.com\/https:\/\/twitter.com\/animemotivate","http:\/\/www.instagram.com\/animemotivate","https:\/\/www.linkedin.com\/company\/anime-motivation","http:\/\/www.pinterest.com\/animemotivate"]},"commentCount":"1","comment":[{"@type":"Comment","dateCreated":"2019-09-23 08:43:10","description":"The Airbender memorable quotes. Thanks for sharing","author":{"@type":"Person","name":"Elle Bent","url":""}}]}</script>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="https://animemotivation.com/wp-content/themes/flatsome/assets/css/ie-fallback.css"><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script><script>var head = document.getElementsByTagName('head')[0],style = document.createElement('style');style.type = 'text/css';style.styleSheet.cssText = ':before,:after{content:none !important';head.appendChild(style);setTimeout(function(){head.removeChild(style);}, 0);</script><script src="https://animemotivation.com/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script><![endif]--> <meta content="wordpress-plugin" name="onesignal">
+<script>
+
+      window.OneSignal = window.OneSignal || [];
+
+      OneSignal.push( function() {
+        OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
+        OneSignal.SERVICE_WORKER_PATH = "OneSignalSDKWorker.js.php";
+        OneSignal.SERVICE_WORKER_PARAM = { scope: '/' };
+
+        OneSignal.setDefaultNotificationUrl("https://animemotivation.com");
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = '8fd4567c-1f4e-4edb-b8d8-b4abd0f737b9';
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "";
+oneSignal_options['welcomeNotification']['message'] = "";
+oneSignal_options['path'] = "https://animemotivation.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.32551e0e-3454-416e-9258-23f2fe99c3c8";
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['siteName'] = 'https://animemotivation.com';
+                OneSignal.init(window._oneSignalInitOptions);
+                OneSignal.showSlidedownPrompt();      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://animemotivation.com",
+                "name": "Home"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@id": "https://animemotivation.com/blog/",
+                "name": "Blog"
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@id": "https://animemotivation.com/avatar-the-last-airbender-quotes/",
+                "name": "53+ Of The BEST Avatar: The Last Airbender Quotes That Will Blow You Away",
+                "image": "https://animemotivation.com/wp-content/uploads/2019/09/avatar-anime-wallpaper.jpg"
+            }
+        }
+    ]
+}</script>
+<link href="https://animemotivation.com/wp-content/uploads/2020/04/cropped-Hikari_burned-1-1.png" rel="icon" sizes="32x32"/>
+<link href="https://animemotivation.com/wp-content/uploads/2020/04/cropped-Hikari_burned-1-1.png" rel="icon" sizes="192x192"/>
+<link href="https://animemotivation.com/wp-content/uploads/2020/04/cropped-Hikari_burned-1-1.png" rel="apple-touch-icon"/>
+<meta content="https://animemotivation.com/wp-content/uploads/2020/04/cropped-Hikari_burned-1-1.png" name="msapplication-TileImage">
+<link as="script" href="/wp-content/plugins/wp-date-remover/public/js/wp-date-remover-public.js?ver=1.0.0" rel="preload"/><link as="script" href="/wp-content/plugins/clearfy/assets/js/css-lazy-load.min.js?ver=1.6.8" rel="preload"/><link as="style" href="/wp-content/plugins/aryo-widget-device/assets/css/style.css?ver=5.4.2" rel="preload"/><link as="style" href="/wp-content/plugins/wp-date-remover/public/css/wp-date-remover-public.css?ver=1.0.0" rel="preload"/><link as="style" href="/wp-content/themes/flatsome/style.css?ver=3.11.3" rel="preload"/><link as="style" href="/wp-content/themes/flatsome-child-theme/style.css?ver=3.11.3" rel="preload"/><link as="style" href="/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.11" rel="preload"/><link as="style" href="/wp-content/plugins/dco-comment-attachment/assets/dco-comment-attachment.css?ver=1.3.1" rel="preload"/><link as="style" href="/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.11.3" rel="preload"/><style id="custom-css" type="text/css">:root {--primary-color: #005CE8;}.header-main{height: 76px}#logo img{max-height: 76px}#logo{width:153px;}.header-bottom{min-height: 32px}.header-top{min-height: 20px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 106px;}.transparent .header-wrapper{background-color: #FFFFFF!important;}.transparent .top-divider{display: none;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 89%;}.header-bg-color, .header-wrapper {background-color: #FFFFFF}.header-bottom {background-color: #FFFFFF}.header-wrapper:not(.stuck) .header-main .header-nav{margin-top: 1px }.header-bottom-nav > li > a{line-height: 16px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.main-menu-overlay{background-color: #0c0c0c}.nav-dropdown-has-arrow li.has-dropdown:before{border-bottom-color: #000000;}.nav .nav-dropdown{border-color: #000000 }.nav-dropdown{font-size:100%}.nav-dropdown-has-arrow li.has-dropdown:after{border-bottom-color: #ffffff;}.nav .nav-dropdown{background-color: #ffffff}.header-top{background-color:#ffffff!important;}.blog-wrapper{background-color: #ffffff;}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #005CE8;}/* Color !important */[data-text-color="primary"]{color: #005CE8!important;}/* Background Color */[data-text-bg="primary"]{background-color: #005CE8;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #005CE8;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #005CE8}.nav-tabs > li.active > a{border-top-color: #005CE8}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #005CE8 }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #005CE8 }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #005CE8;}/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#0A7F00; }[data-text-bg="secondary"]{background-color: #0A7F00;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #0A7F00}/* Color !important */[data-text-color="secondary"]{color: #0A7F00!important;}/* Border */.secondary.is-outline:hover{border-color:#0A7F00}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family:"Open Sans", sans-serif}body{font-weight: 0}body{color: #000000}.nav > li > a {font-family:"Open Sans", sans-serif;}.nav > li > a {font-weight: 0;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: "Open Sans", sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2{font-weight: 700;}h1,h2,h3,h4,h5,h6,.heading-font{color: #000000;}.breadcrumbs{text-transform: none;}button,.button{text-transform: none;}.nav > li > a, .links > li > a{text-transform: none;}.alt-font{font-family: "Open Sans", sans-serif;}.alt-font{font-weight: 0!important;}.header:not(.transparent) .header-nav.nav > li > a {color: #000000;}.header:not(.transparent) .header-nav.nav > li > a:hover,.header:not(.transparent) .header-nav.nav > li.active > a,.header:not(.transparent) .header-nav.nav > li.current > a,.header:not(.transparent) .header-nav.nav > li > a.active,.header:not(.transparent) .header-nav.nav > li > a.current{color: #0066BF;}.header-nav.nav-line-bottom > li > a:before,.header-nav.nav-line-grow > li > a:before,.header-nav.nav-line > li > a:before,.header-nav.nav-box > li > a:hover,.header-nav.nav-box > li.active > a,.header-nav.nav-pills > li > a:hover,.header-nav.nav-pills > li.active > a{color:#FFF!important;background-color: #0066BF;}.header:not(.transparent) .header-bottom-nav.nav > li > a{color: #303030;}.header:not(.transparent) .header-bottom-nav.nav > li > a:hover,.header:not(.transparent) .header-bottom-nav.nav > li.active > a,.header:not(.transparent) .header-bottom-nav.nav > li.current > a,.header:not(.transparent) .header-bottom-nav.nav > li > a.active,.header:not(.transparent) .header-bottom-nav.nav > li > a.current{color: #1e73be;}.header-bottom-nav.nav-line-bottom > li > a:before,.header-bottom-nav.nav-line-grow > li > a:before,.header-bottom-nav.nav-line > li > a:before,.header-bottom-nav.nav-box > li > a:hover,.header-bottom-nav.nav-box > li.active > a,.header-bottom-nav.nav-pills > li > a:hover,.header-bottom-nav.nav-pills > li.active > a{color:#FFF!important;background-color: #1e73be;}a{color: #0066BF;}a:hover{color: #269B00;}.tagcloud a:hover{border-color: #269B00;background-color: #269B00;}.widget a{color: #000000;}.widget a:hover{color: #269B00;}.widget .tagcloud a:hover{border-color: #269B00; background-color: #269B00;}.is-divider{background-color: #FFFFFF;}.badge-inner.on-sale{background-color: #DD3333}.badge-inner.new-bubble{background-color: #3CBF00}.star-rating span:before,.star-rating:before, .woocommerce-page .star-rating:before, .stars a:hover:after, .stars a.active:after{color: #DB5F32}.header-main .social-icons,.header-main .cart-icon strong,.header-main .menu-title,.header-main .header-button > .button.is-outline,.header-main .nav > li > a > i:not(.icon-angle-down){color: #0066BF!important;}.header-main .header-button > .button.is-outline,.header-main .cart-icon strong:after,.header-main .cart-icon strong{border-color: #0066BF!important;}.header-main .header-button > .button:not(.is-outline){background-color: #0066BF!important;}.header-main .current-dropdown .cart-icon strong,.header-main .header-button > .button:hover,.header-main .header-button > .button:hover i,.header-main .header-button > .button:hover span{color:#FFF!important;}.header-main .menu-title:hover,.header-main .social-icons a:hover,.header-main .header-button > .button.is-outline:hover,.header-main .nav > li > a:hover > i:not(.icon-angle-down){color: #0066BF!important;}.header-main .current-dropdown .cart-icon strong,.header-main .header-button > .button:hover{background-color: #0066BF!important;}.header-main .current-dropdown .cart-icon strong:after,.header-main .current-dropdown .cart-icon strong,.header-main .header-button > .button:hover{border-color: #0066BF!important;}.footer-2{background-color: #333333}.absolute-footer, html{background-color: #333333}.page-title-small + main .product-container > .row{padding-top:0;}button[name='update_cart'] { display: none; }.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style> <style id="wp-custom-css" type="text/css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+
+
+.image-wrapper img, .image-wrapper amp-img {
+    height: auto;
+    width: auto;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+
+
+time.pull-left {
+  display: none;
+}
+
+div.badge-inner {
+  display: none;
+}		</style>
+<script async="" data-cfasync="false" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script> <script src="//biddr.brealtime.com/35260240-1556.js" type="text/javascript"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    var mappingA = googletag.sizeMapping().
+                    addSize([850, 0], [728, 90]).
+                    addSize([0, 0], [300, 250]).
+                    build();
+    var mappingB = googletag.sizeMapping().
+                    addSize([1024, 0], [120, 600]).
+                    addSize([0, 0], []).
+                    build();
+    googletag.defineSlot('/2507246/ANM//animemotivation//misc//1', [728, 90], 'div-gpt-ad-1585656387779-0').defineSizeMapping(mappingA).addService(googletag.pubads());
+    googletag.defineSlot('/2507246/ANM//animemotivation//misc//2', [728, 90], 'div-gpt-ad-1585656420736-0').defineSizeMapping(mappingA).addService(googletag.pubads());
+    googletag.defineSlot('/2507246/ANM//animemotivation//misc//3', [728, 90], 'div-gpt-ad-1585656452100-0').defineSizeMapping(mappingA).addService(googletag.pubads());
+    googletag.defineSlot('/2507246/ANM//animemotivation//misc//4', [728, 90], 'div-gpt-ad-1585656484022-0').defineSizeMapping(mappingA).addService(googletag.pubads());
+    googletag.defineSlot('/2507246/ANM//animemotivation//misc//5', [728, 90], 'div-gpt-ad-1585656520925-0').defineSizeMapping(mappingA).addService(googletag.pubads());
+    googletag.defineSlot('/2507246/ANM//animemotivation//misc//6', [728, 90], 'div-gpt-ad-1585656556308-0').defineSizeMapping(mappingA).addService(googletag.pubads()); 
+    googletag.defineSlot('/2507246/ANM//animemotivation//misc//7', [120, 600], 'div-gpt-ad-1585656583746-0').defineSizeMapping(mappingB).addService(googletag.pubads());
+    googletag.defineSlot('/2507246/ANM//animemotivation//misc//8', [728, 90], 'div-gpt-ad-1588064008346-0').defineSizeMapping(mappingA).addService(googletag.pubads());  
+    googletag.defineSlot('/2507246/ANM//animemotivation//misc//9', [728, 90], 'div-gpt-ad-1588064022582-0').defineSizeMapping(mappingA).addService(googletag.pubads()); 
+    googletag.defineSlot('/2507246/ANM//animemotivation//misc//10', [728, 90], 'div-gpt-ad-1588064039631-0').defineSizeMapping(mappingA).addService(googletag.pubads()); 
+    googletag.defineSlot('/2507246/ANM//animemotivation//1x1', [1, 1], 'div-gpt-ad-1585664100713-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script></meta></meta></link></link></link></link></link></link></link></link></link></head>
+<body class="post-template-default single single-post postid-60242 single-format-standard full-width header-shadow box-shadow lightbox nav-dropdown-has-arrow">
+<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+<div id="wrapper">
+<header class="header has-sticky sticky-fade sticky-hide-on-scroll" id="header">
+<div class="header-wrapper">
+<div class="header-top hide-for-sticky show-for-medium" id="top-bar">
+<div class="flex-row container">
+<div class="flex-col hide-for-medium flex-left">
+<ul class="nav nav-left medium-nav-center nav-small nav-">
+</ul>
+</div>
+<div class="flex-col hide-for-medium flex-center">
+<ul class="nav nav-center nav-small nav-">
+</ul>
+</div>
+<div class="flex-col hide-for-medium flex-right">
+<ul class="nav top-bar-nav nav-right nav-small nav-">
+</ul>
+</div>
+<div class="flex-col show-for-medium flex-grow">
+<ul class="nav nav-center nav-small mobile-nav nav-">
+<li class="label-hot menu-item menu-item-type-post_type menu-item-object-post menu-item-68589" id="menu-item-68589"><a class="nav-top-link" href="https://animemotivation.com/adult-anime-games/" rel="noopener noreferrer" target="_blank">Hentai Games</a></li>
+<li class="label-popular menu-item menu-item-type-custom menu-item-object-custom menu-item-69699" id="menu-item-69699"><a class="nav-top-link" href="https://funimation.8u86.net/c/2360928/353533/4688" rel="noopener noreferrer" target="_blank">Streaming</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="header-main" id="masthead">
+<div class="header-inner flex-row container logo-left medium-logo-center" role="navigation">
+<div class="flex-col logo" id="logo">
+<a href="https://animemotivation.com/" rel="home" title="Anime Motivation - Where Anime &amp; Motivation Collide">
+<img alt="Anime Motivation" class="header_logo header-logo" height="76" src="https://animemotivation.com/wp-content/uploads/2018/05/Anime-Motivation-1-e1525879622533.png" width="153"/><img alt="Anime Motivation" class="header-logo-dark" height="76" src="https://animemotivation.com/wp-content/uploads/2018/05/Anime-Motivation-1-e1525879622533.png" width="153"/></a>
+</div>
+<div class="flex-col show-for-medium flex-left">
+<ul class="mobile-nav nav nav-left">
+<li class="nav-icon has-icon">
+<a aria-controls="main-menu" aria-expanded="false" aria-label="Menu" class="is-small" data-bg="main-menu-overlay" data-color="" data-open="#main-menu" data-pos="left" href="#">
+<i class="icon-menu"></i>
+<span class="menu-title uppercase hide-for-small">Menu</span> </a>
+</li> </ul>
+</div>
+<div class="flex-col hide-for-medium flex-left flex-grow">
+<ul class="header-nav header-nav-main nav nav-left nav-line-bottom nav-size-large nav-uppercase">
+<li class="header-search header-search-lightbox has-icon">
+<a aria-label="Search" class="is-small" data-focus="input.search-field" data-open="#search-lightbox" href="#search-lightbox">
+<i class="icon-search" style="font-size:16px;"></i></a>
+<div class="mfp-hide dark text-center" id="search-lightbox">
+<div class="searchform-wrapper ux-search-box relative is-large"><form action="https://animemotivation.com/" class="searchform" method="get" role="search">
+<div class="flex-row relative">
+<div class="flex-col flex-grow">
+<input class="search-field mb-0" id="s" name="s" placeholder="I'm looking for...." type="search" value=""/>
+</div>
+<div class="flex-col">
+<button aria-label="Submit" class="ux-search-submit submit-button secondary button icon mb-0" type="submit">
+<i class="icon-search"></i> </button>
+</div>
+</div>
+<div class="live-search-results text-left z-top"></div>
+</form>
+</div> </div>
+</li>
+<li class="header-divider"></li><li class="label-new menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-64997" id="menu-item-64997"><a class="nav-top-link" href="https://animemotivation.com/blog/">News</a></li>
+<li class="label-hot menu-item menu-item-type-post_type menu-item-object-post menu-item-68588" id="menu-item-68588"><a class="nav-top-link" href="https://animemotivation.com/adult-anime-games/">Hentai Games</a></li>
+<li class="label-sale menu-item menu-item-type-post_type menu-item-object-page menu-item-68819" id="menu-item-68819"><a class="nav-top-link" href="https://animemotivation.com/store/anime-merchandise/">Merch</a></li>
+<li class="label-popular menu-item menu-item-type-custom menu-item-object-custom menu-item-69670" id="menu-item-69670"><a class="nav-top-link" href="https://funimation.8u86.net/c/2360928/353533/4688" rel="noopener noreferrer" target="_blank">Streaming</a></li>
+</ul>
+</div>
+<div class="flex-col hide-for-medium flex-right">
+<ul class="header-nav header-nav-main nav nav-right nav-line-bottom nav-size-large nav-uppercase">
+</ul>
+</div>
+<div class="flex-col show-for-medium flex-right">
+<ul class="mobile-nav nav nav-right">
+<li class="header-search header-search-lightbox has-icon">
+<a aria-label="Search" class="is-small" data-focus="input.search-field" data-open="#search-lightbox" href="#search-lightbox">
+<i class="icon-search" style="font-size:16px;"></i></a>
+<div class="mfp-hide dark text-center" id="search-lightbox">
+<div class="searchform-wrapper ux-search-box relative is-large"><form action="https://animemotivation.com/" class="searchform" method="get" role="search">
+<div class="flex-row relative">
+<div class="flex-col flex-grow">
+<input class="search-field mb-0" id="s" name="s" placeholder="I'm looking for...." type="search" value=""/>
+</div>
+<div class="flex-col">
+<button aria-label="Submit" class="ux-search-submit submit-button secondary button icon mb-0" type="submit">
+<i class="icon-search"></i> </button>
+</div>
+</div>
+<div class="live-search-results text-left z-top"></div>
+</form>
+</div> </div>
+</li>
+</ul>
+</div>
+</div>
+<div class="container"><div class="top-divider full-width"></div></div>
+</div>
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div> </div>
+</header>
+<main class="" id="main">
+<div class="blog-wrapper blog-single page-wrapper" id="content">
+<div class="row row-large">
+<div class="large-9 col">
+<article class="post-60242 post type-post status-publish format-standard has-post-thumbnail hentry category-quotes" id="post-60242">
+<div class="article-inner has-shadow box-shadow-1">
+<header class="entry-header">
+<div class="entry-header-text entry-header-text-top text-left">
+<h6 class="entry-category is-xsmall">
+<a href="https://animemotivation.com/category/quotes/" rel="category tag">Anime Quotes</a></h6>
+<h1 class="entry-title">53+ Of The BEST Avatar: The Last Airbender Quotes That Will Blow You Away</h1>
+<div class="entry-divider is-divider small"></div>
+<div class="entry-meta uppercase is-xsmall">
+<span class="posted-on">Posted on <a href="https://animemotivation.com/avatar-the-last-airbender-quotes/" rel="bookmark"><time class="entry-date published" datetime=""></time><time class="updated" datetime=""></time></a></span><span class="byline"> by <span class="meta-author vcard"><a class="url fn n" href="https://animemotivation.com/author/Anime%20Motivation/">Anime Motivation</a></span></span> </div>
+</div>
+<div class="entry-image relative">
+<a href="https://animemotivation.com/avatar-the-last-airbender-quotes/">
+<img alt="avatar anime wallpaper" class="lazy lazy-hidden attachment-large size-large wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/avatar-anime-wallpaper.jpg" height="638" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="1021"/><noscript><img alt="avatar anime wallpaper" class="attachment-large size-large wp-post-image" height="638" src="https://animemotivation.com/wp-content/uploads/2019/09/avatar-anime-wallpaper.jpg" width="1021"/></noscript></a>
+<div class="badge absolute top post-date badge-outline">
+<div class="badge-inner">
+<span class="post-date-day"></span><br/>
+<span class="post-date-month is-small"></span>
+</div>
+</div> </div>
+</header>
+<div class="entry-content single-page">
+<p><strong> Avatar: The Last Airbender Quotes </strong>taken from these characters:</p>
+<ul>
+<li class="bullet-star">Piandao.</li>
+<li class="bullet-star">Lion Turtle.</li>
+<li class="bullet-star">Zuko.</li>
+<li class="bullet-star">Iroh.</li>
+<li class="bullet-star">Azula.</li>
+<li class="bullet-star">Sokka.</li>
+<li class="bullet-star">King Bumi.</li>
+<li class="bullet-star">Toph Bei Fong.</li>
+<li class="bullet-star">Roku.</li>
+<li class="bullet-star">Pathik.</li>
+<li class="bullet-star">Sozin.</li>
+<li class="bullet-star">Katara.</li>
+<li class="bullet-star">Ty Lee.</li>
+<li class="bullet-star">Mai.</li>
+<li class="bullet-star">Aang.</li>
+<li class="bullet-star">Jeong Jeong.</li>
+</ul>
+<p><strong><a href="https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender" rel="noopener" target="_blank">Avatar: The Last Airbender</a> </strong>is considered a <em>great </em>anime within the community. Even if it’s not a native anime made back in Japan.</p>
+<p>With the inspirational quotes, powerful life lessons, and meaningful lines – this anime is comparable to Naruto or DBZ. At least for its takeaways.</p>
+<p><span class="fancy-underline">Here are some of the <em>best </em>lines from Avatar: The Last Airbender.</span></p>
+<p> </p>
+<h3><strong>1. Zuko Quotes</strong></h3>
+<p><img alt="zuko quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60343" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/zuko-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="zuko quotes avatar" class="alignnone size-full wp-image-60343" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/zuko-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“In the darkness, hope is something you give yourself.” – Zuko</p></blockquote>
+<p> </p>
+<p><img alt="zuko quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60339" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/zuko-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="zuko quotes avatar 1" class="alignnone size-full wp-image-60339" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/zuko-quotes-avatar-1.jpg" width="550"/></noscript></p>
+<blockquote><p>“Never forget who you are, for surely the world won’t.” – Zuko</p></blockquote>
+<p> </p>
+<p><img alt="zuko quotes avatar 2" class="lazy lazy-hidden alignnone size-full wp-image-60340" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/zuko-quotes-avatar-2.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="zuko quotes avatar 2" class="alignnone size-full wp-image-60340" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/zuko-quotes-avatar-2.jpg" width="550"/></noscript></p>
+<blockquote><p>“Bad skin?! Normal teenagers worry about bad skin, I don’t have that luxury.” – Zuko</p></blockquote>
+<p> </p>
+<p><img alt="zuko quotes avatar 3" class="lazy lazy-hidden alignnone size-full wp-image-60341" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/zuko-quotes-avatar-3.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="zuko quotes avatar 3" class="alignnone size-full wp-image-60341" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/zuko-quotes-avatar-3.jpg" width="550"/></noscript></p>
+<blockquote><p>“Why am I so bad at being good?” – Zuko</p></blockquote>
+<p> </p><div class="code-block code-block-1" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<div id="div-gpt-ad-1585656387779-0">
+<script> 
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1585656387779-0'); });
+  </script>
+</div>
+<div class="is-divider divider clearfix"></div>
+</div>
+<p><img alt="zuko quotes avatar 4" class="lazy lazy-hidden alignnone size-full wp-image-60342" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/zuko-quotes-avatar-4.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="zuko quotes avatar 4" class="alignnone size-full wp-image-60342" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/zuko-quotes-avatar-4.jpg" width="550"/></noscript></p>
+<blockquote><p>“I finally have you. But I can’t get you home because of this blizzard. There’s always something. Not that you would understand. You’re like my sister. Everything always came easy to her. She’s a firebending prodigy and everyone adores her. My father says she was born lucky. He says I was lucky to be born. I don’t need luck, though. I don’t want it. I’ve always had to struggle and fight, and that’s made me strong. It’s made me who I am.” – Zuko</p></blockquote>
+<p> </p>
+<h3><strong>2. Lion Turtle Quotes</strong></h3>
+<p><img alt="Lion Turtle quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60323" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Lion-Turtle-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Lion Turtle quotes avatar" class="alignnone size-full wp-image-60323" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Lion-Turtle-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“The true mind can weather all lies and illusions without being lost. The true heart can touch the poison of hatred without being harmed. From beginningless time, darkness thrives in the void, but always yields to purifying light.” – Lion Turtle</p></blockquote>
+<p> </p>
+<h3><strong>3. Piandao Quotes</strong></h3>
+<p><img alt="Piandao quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60326" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Piandao-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Piandao quotes avatar" class="alignnone size-full wp-image-60326" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Piandao-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“The way of the sword doesn’t belong to any one nation. Knowledge of the arts belongs to us all.” – Piandao</p></blockquote>
+<p> </p>
+<h3><strong>4. Iroh Quotes</strong></h3>
+<p><img alt="iroh quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-59069" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/08/iroh-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="iroh quotes avatar" class="alignnone size-full wp-image-59069" height="550" src="https://animemotivation.com/wp-content/uploads/2019/08/iroh-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“It is important to draw wisdom from different places. If you take it from only one place, it becomes rigid and stale.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60312" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar" class="alignnone size-full wp-image-60312" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“Life happens wherever you are, whether you make it or not.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60300" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 1" class="alignnone size-full wp-image-60300" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-1.jpg" width="550"/></noscript></p><div class="code-block code-block-2" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<div id="div-gpt-ad-1585656420736-0">
+<script> 
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1585656420736-0'); });
+  </script>
+</div>
+<div class="is-divider divider clearfix"></div></div>
+<blockquote><p>“Prince Zuko, pride is not the opposite of shame, but rather it’s source. True humility is the only antidote to shame.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 2" class="lazy lazy-hidden alignnone size-full wp-image-60301" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-2.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 2" class="alignnone size-full wp-image-60301" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-2.jpg" width="550"/></noscript></p>
+<blockquote><p>“Sometimes the best way to solve your own problems is to help someone else.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 3" class="lazy lazy-hidden alignnone size-full wp-image-60302" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-3.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 3" class="alignnone size-full wp-image-60302" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-3.jpg" width="550"/></noscript></p>
+<blockquote><p>“You must look within yourself to save yourself from your other self. Only then will your true self reveal itself.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 4" class="lazy lazy-hidden alignnone size-full wp-image-60303" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-4.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 4" class="alignnone size-full wp-image-60303" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-4.jpg" width="550"/></noscript></p>
+<blockquote><p>“Only once every hundred years can a Firebender experience this kind of power.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 5" class="lazy lazy-hidden alignnone size-full wp-image-60304" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-5.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 5" class="alignnone size-full wp-image-60304" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-5.jpg" width="550"/></noscript></p>
+<blockquote><p>“It’s always best to believe in one’s self but a little help from others can be a great blessing!” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 6" class="lazy lazy-hidden alignnone size-full wp-image-60305" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-6.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 6" class="alignnone size-full wp-image-60305" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-6.jpg" width="550"/></noscript></p>
+<blockquote><p>“I know you’re not supposed to cry over spilled tea, but it’s just so sad!” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 7" class="lazy lazy-hidden alignnone size-full wp-image-60306" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-7.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 7" class="alignnone size-full wp-image-60306" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-7.jpg" width="550"/></noscript></p><div class="code-block code-block-3" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<div id="div-gpt-ad-1585656452100-0">
+<script> 
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1585656452100-0'); });
+  </script>
+</div>
+<div class="is-divider divider clearfix"></div></div>
+<blockquote><p>“You are not the man you used to be. You are stronger and wiser and freer than you ever used to be. And now you have come at the crossroads of destiny. It’s time for you to choose. It’s time for you to choose good.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 8" class="lazy lazy-hidden alignnone size-full wp-image-60307" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-8.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 8" class="alignnone size-full wp-image-60307" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-8.jpg" width="550"/></noscript></p>
+<blockquote><p>“You may not always see the light at the end of the tunnel, but if you keep moving, you will come to a better place.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 9" class="lazy lazy-hidden alignnone size-full wp-image-60308" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-9.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 9" class="alignnone size-full wp-image-60308" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-9.jpg" width="550"/></noscript></p>
+<blockquote><p>“The coin is appreciated…but not as much as your smile.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 10" class="lazy lazy-hidden alignnone size-full wp-image-60309" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-10.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 10" class="alignnone size-full wp-image-60309" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-10.jpg" width="550"/></noscript></p>
+<blockquote><p>“There are reasons each of us are born. We have to find those reasons.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 11" class="lazy lazy-hidden alignnone size-full wp-image-60310" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-11.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 11" class="alignnone size-full wp-image-60310" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-11.jpg" width="550"/></noscript></p>
+<blockquote><p>“Who knew that floating on a piece of drift wood for three weeks with no food or water… and sea vultures waiting to pluck out your liver could make one so tense.” – Iroh</p></blockquote>
+<p> </p>
+<p><img alt="Iroh quotes avatar 12" class="lazy lazy-hidden alignnone size-full wp-image-60311" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-12.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Iroh quotes avatar 12" class="alignnone size-full wp-image-60311" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Iroh-quotes-avatar-12.jpg" width="550"/></noscript></p>
+<blockquote><p>“Protection and power are overrated. I think you are very wise to choose happiness and love.” – Iroh</p></blockquote>
+<p> </p><div class="code-block code-block-4" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<div id="div-gpt-ad-1585656484022-0">
+<script> 
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1585656484022-0'); });
+  </script>
+</div>
+<div class="is-divider divider clearfix"></div></div>
+<h3><strong>5. Katara Quotes</strong></h3>
+<p><img alt="Katara quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60320" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Katara-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Katara quotes avatar" class="alignnone size-full wp-image-60320" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Katara-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“I wanted to do it. I wanted to take out all my anger at him. But… I couldn’t. I don’t know if it’s because I’m too weak to do it, or if it’s because I’m strong enough not to.” – Katara</p></blockquote>
+<p> </p>
+<p><img alt="Katara quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60316" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Katara-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Katara quotes avatar 1" class="alignnone size-full wp-image-60316" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Katara-quotes-avatar-1.jpg" width="550"/></noscript></p>
+<blockquote><p>“My grandmother used to tell me stories about the old days, a time of peace when the Avatar kept balance between the Water Tribes, Earth Kingdom, Fire Nation, and Air Nomads. But that all changed when the Fire Nation attacked. Only the Avatar, master of all four elements, only he could stop the ruthless firebenders. But when the world needed him most, he vanished. A hundred years have passed and the Fire Nation is nearing victory in the war. Two years ago, my father and the men of my tribe journeyed to the Earth Kingdom to help fight against the Fire Nation, leaving me and my brother to look after our tribe. Some people believe that the Avatar was never reborn into the Air Nomads and that the cycle is broken, but I haven’t lost hope. I still believe that somehow…the Avatar will return to save the world.” – Katara</p></blockquote>
+<p> </p>
+<p><img alt="Katara quotes avatar 2" class="lazy lazy-hidden alignnone size-full wp-image-60317" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Katara-quotes-avatar-2.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Katara quotes avatar 2" class="alignnone size-full wp-image-60317" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Katara-quotes-avatar-2.jpg" width="550"/></noscript></p>
+<blockquote><p>“Get over here, Zuko. Being part of the group also means being part of group hugs.” – Katara</p></blockquote>
+<p> </p>
+<p><img alt="Katara quotes avatar 3" class="lazy lazy-hidden alignnone size-full wp-image-60318" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Katara-quotes-avatar-3.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Katara quotes avatar 3" class="alignnone size-full wp-image-60318" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Katara-quotes-avatar-3.jpg" width="550"/></noscript></p>
+<blockquote><p>“The stars sure are beautiful tonight. Too bad you can’t see them, Toph!” – Katara</p></blockquote>
+<p> </p>
+<p><img alt="Katara quotes avatar 4" class="lazy lazy-hidden alignnone size-full wp-image-60319" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Katara-quotes-avatar-4.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Katara quotes avatar 4" class="alignnone size-full wp-image-60319" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Katara-quotes-avatar-4.jpg" width="550"/></noscript></p>
+<blockquote><p>“Love is brightest in the dark.” – Katara</p></blockquote>
+<p> </p>
+<h3><strong>6. Sokka Quotes</strong></h3>
+<p><img alt="Sokka quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60333" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Sokka-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Sokka quotes avatar" class="alignnone size-full wp-image-60333" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Sokka-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“Look, I hate to be the wet blanket here, but since Katara’s busy, I guess it’s up to me.” – Sokka</p></blockquote>
+<p> </p><div class="code-block code-block-5" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<div id="div-gpt-ad-1585656520925-0">
+<script> 
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1585656520925-0'); });
+  </script>
+</div>
+<div class="is-divider divider clearfix"></div></div>
+<p><img alt="Sokka quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60329" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Sokka-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Sokka quotes avatar 1" class="alignnone size-full wp-image-60329" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Sokka-quotes-avatar-1.jpg" width="550"/></noscript></p>
+<blockquote><p>“You’re awfully cute, but unfortunately for you, you’re made of meat.” – Sokka</p></blockquote>
+<p> </p>
+<p><img alt="Sokka quotes avatar 2" class="lazy lazy-hidden alignnone size-full wp-image-60330" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Sokka-quotes-avatar-2.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Sokka quotes avatar 2" class="alignnone size-full wp-image-60330" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Sokka-quotes-avatar-2.jpg" width="550"/></noscript></p>
+<blockquote><p>“Simple: girls are better at fixing pants than guys, and guys are better at hunting and fighting and stuff like that. It’s just the natural order of things.” – Sokka</p></blockquote>
+<p> </p>
+<p><img alt="Sokka quotes avatar 3" class="lazy lazy-hidden alignnone size-full wp-image-60331" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Sokka-quotes-avatar-3.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Sokka quotes avatar 3" class="alignnone size-full wp-image-60331" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Sokka-quotes-avatar-3.jpg" width="550"/></noscript></p>
+<blockquote><p>“Stop! Stop it right now! What’s wrong with you? We don’t have time for fun and games with the war going on.” – Sokka</p></blockquote>
+<p> </p>
+<p><img alt="Sokka quotes avatar 4" class="lazy lazy-hidden alignnone size-full wp-image-60332" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Sokka-quotes-avatar-4.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Sokka quotes avatar 4" class="alignnone size-full wp-image-60332" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Sokka-quotes-avatar-4.jpg" width="550"/></noscript></p>
+<blockquote><p>“I’m too young to die!” – Sokka</p></blockquote>
+<p> </p>
+<h3><strong>7. Azula Quotes</strong></h3>
+<p><img alt="Azula quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60299" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Azula-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Azula quotes avatar" class="alignnone size-full wp-image-60299" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Azula-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“In my country, we exchange a pleasant “hello” before asking questions.” – Azula</p></blockquote>
+<p> </p>
+<p><img alt="Azula quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60296" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Azula-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Azula quotes avatar 1" class="alignnone size-full wp-image-60296" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Azula-quotes-avatar-1.jpg" width="550"/></noscript></p><div class="code-block code-block-6" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<div id="div-gpt-ad-1585656556308-0">
+<script> 
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1585656556308-0'); });
+  </script>
+</div>
+<div class="is-divider divider clearfix"></div></div>
+<blockquote><p>“Don’t you know that fans only make flames stronger?” – Azula</p></blockquote>
+<p> </p>
+<p><img alt="Azula quotes avatar 2" class="lazy lazy-hidden alignnone size-full wp-image-60297" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Azula-quotes-avatar-2.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Azula quotes avatar 2" class="alignnone size-full wp-image-60297" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Azula-quotes-avatar-2.jpg" width="550"/></noscript></p>
+<blockquote><p>“My own mother thought I was a monster. She was right of course… but it still hurt.” – Azula</p></blockquote>
+<p> </p>
+<p><img alt="Azula quotes avatar 3" class="lazy lazy-hidden alignnone size-full wp-image-60298" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Azula-quotes-avatar-3.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Azula quotes avatar 3" class="alignnone size-full wp-image-60298" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Azula-quotes-avatar-3.jpg" width="550"/></noscript></p>
+<blockquote><p>“Why would father want YOU back? Except to lock you up where you can no longer embarrass him!” – Azula</p></blockquote>
+<p> </p>
+<h3><strong>8. Toph Bei Fong Quotes</strong></h3>
+<p><img alt="Toph Bei Fong quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60337" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Toph-Bei-Fong-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Toph Bei Fong quotes avatar" class="alignnone size-full wp-image-60337" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Toph-Bei-Fong-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“I’ve seen enough of Ba Sing Sei. And I can’t even see!” – Toph Bei Fong</p></blockquote>
+<p> </p>
+<p><img alt="Toph Bei Fong quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60336" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Toph-Bei-Fong-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Toph Bei Fong quotes avatar 1" class="alignnone size-full wp-image-60336" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Toph-Bei-Fong-quotes-avatar-1.jpg" width="550"/></noscript></p>
+<blockquote><p>“Yesterday my mouth tasted like mud. Now it tastes like sand. I never thought I would miss the taste of mud so much.” – Toph Bei Fong</p></blockquote>
+<p> </p>
+<h3><strong>9. King Bumi Quotes</strong></h3>
+<p><img alt="king bumi quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60322" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/king-bumi-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="king bumi quotes avatar" class="alignnone size-full wp-image-60322" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/king-bumi-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“You need to find someone who WAITS and LISTENS before striking.” – King Bumi</p></blockquote>
+<p> </p>
+<p><img alt="king bumi quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60321" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/king-bumi-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="king bumi quotes avatar 1" class="alignnone size-full wp-image-60321" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/king-bumi-quotes-avatar-1.jpg" width="550"/></noscript></p><div class="code-block code-block-8" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<div id="div-gpt-ad-1588064008346-0">
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1588064008346-0'); });
+  </script>
+</div>
+<div class="is-divider divider clearfix"></div></div>
+<blockquote><p>“I didn’t know what or when, but I knew I’d know it when I knew it!” – King Bumi</p></blockquote>
+<p> </p>
+<h3><strong>10. Roku Quotes</strong></h3>
+<p><img alt="roku quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60328" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/roku-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="roku quotes avatar" class="alignnone size-full wp-image-60328" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/roku-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“If I had been more decisive, and acted sooner, I could have stopped Sozin, and stopped the war before it started. I offer you this wisdom, Aang, you must be decisive.” – Roku</p></blockquote>
+<p> </p>
+<p><img alt="roku quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60327" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/roku-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="roku quotes avatar 1" class="alignnone size-full wp-image-60327" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/roku-quotes-avatar-1.jpg" width="550"/></noscript></p>
+<blockquote><p>“The avatar state is a defence mechanism – designed to empower you with all the skills and knowledge of the past avatars. The glow is the combination of all your past lives. Focusing their energy to your body.” – Roku</p></blockquote>
+<p> </p>
+<h3><strong>11. Sozin Quotes</strong></h3>
+<p><img alt="sozin quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60335" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/sozin-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="sozin quotes avatar" class="alignnone size-full wp-image-60335" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/sozin-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“With Roku gone and the Great Comet returning, the timing was perfect to change the world. I knew the next Avatar would be born an Air Nomad so I wiped out the Air Temples, but somehow the new Avatar eluded me. I wasted the remainder of my life searching in vain. I know he’s hiding out there somewhere: the Fire Nation’s greatest threat, the last Airbender.” – Sozin</p></blockquote>
+<p> </p>
+<p><img alt="sozin quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60334" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/sozin-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="sozin quotes avatar 1" class="alignnone size-full wp-image-60334" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/sozin-quotes-avatar-1.jpg" width="550"/></noscript></p>
+<blockquote><p>“Without you, all my plans are suddenly possible. I have a vision for the future, Roku.” – Sozin</p></blockquote>
+<p> </p>
+<h3><strong>12. Pathik Quotes</strong></h3>
+<p><img alt="pathik quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60325" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/pathik-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="pathik quotes avatar" class="alignnone size-full wp-image-60325" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/pathik-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“I know I am not the person you expected…and I did not expect to be licked by a giant tongue just now.” – Pathik</p></blockquote>
+<p> </p><div class="code-block code-block-9" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<div id="div-gpt-ad-1588064022582-0">
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1588064022582-0'); });
+  </script>
+</div>
+<div class="is-divider divider clearfix"></div></div>
+<h3><strong>13. Ty Lee Quotes</strong></h3>
+<p><img alt="ty lee quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60338" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/ty-lee-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="ty lee quotes avatar" class="alignnone size-full wp-image-60338" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/ty-lee-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“Nice speech, Azula! It was pretty and poetic, but also scary in a good way!” – Ty Lee</p></blockquote>
+<p> </p>
+<h3><strong>14. Aang Quotes</strong></h3>
+<p><img alt="Aang quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60348" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Aang-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Aang quotes avatar" class="alignnone size-full wp-image-60348" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Aang-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“The past can be a great teacher.” – Aang</p></blockquote>
+<p> </p>
+<p><img alt="Aang quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60344" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Aang-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Aang quotes avatar 1" class="alignnone size-full wp-image-60344" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Aang-quotes-avatar-1.jpg" width="550"/></noscript></p>
+<blockquote><p>“If you want to be a bender, you have to let go of fear.”</p></blockquote>
+<p> </p>
+<p><img alt="Aang quotes avatar 2" class="lazy lazy-hidden alignnone size-full wp-image-60345" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Aang-quotes-avatar-2.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Aang quotes avatar 2" class="alignnone size-full wp-image-60345" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Aang-quotes-avatar-2.jpg" width="550"/></noscript></p>
+<blockquote><p>“This isn’t about finding a teacher. This is about finding my friend.” – Aang</p></blockquote>
+<p> </p>
+<p><img alt="Aang quotes avatar 3" class="lazy lazy-hidden alignnone size-full wp-image-60346" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Aang-quotes-avatar-3.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Aang quotes avatar 3" class="alignnone size-full wp-image-60346" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Aang-quotes-avatar-3.jpg" width="550"/></noscript></p>
+<blockquote><p>“When we hit our lowest point, we are open to the greatest change.” – Aang</p></blockquote>
+<p> </p>
+<p><img alt="Aang quotes avatar 4" class="lazy lazy-hidden alignnone size-full wp-image-60347" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Aang-quotes-avatar-4.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Aang quotes avatar 4" class="alignnone size-full wp-image-60347" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Aang-quotes-avatar-4.jpg" width="550"/></noscript></p>
+<blockquote><p>“I was in the avatar state… But I was outside my body watching myself. It was scary. I was scary…” – Aang</p></blockquote>
+<p> </p><div class="code-block code-block-10" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<div id="div-gpt-ad-1588064039631-0">
+<script>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1588064039631-0'); });
+  </script>
+</div>
+<div class="is-divider divider clearfix"></div></div>
+<h3><strong>15. Jeong Jeong Quotes</strong></h3>
+<p><img alt="Jeong Jeong quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60315" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Jeong-Jeong-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Jeong Jeong quotes avatar" class="alignnone size-full wp-image-60315" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Jeong-Jeong-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“Water brings healing and life. But fire brings only destruction and pain. It forces those of us burdened with its care to walk a razor’s edge between humanity and savagery. Eventually, we are torn apart.” – Jeong Jeong</p></blockquote>
+<p> </p>
+<p><img alt="Jeong Jeong quotes avatar 1" class="lazy lazy-hidden alignnone size-full wp-image-60313" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Jeong-Jeong-quotes-avatar-1.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Jeong Jeong quotes avatar 1" class="alignnone size-full wp-image-60313" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Jeong-Jeong-quotes-avatar-1.jpg" width="550"/></noscript></p>
+<blockquote><p>“Destiny? What would a boy know of destiny? If a fish lives its whole life in this river, does he know the river’s destiny? No! Only that it runs on and on out of his control. He may follow where it flows, but he cannot see the end. He cannot imagine the ocean.” – Jeong Jeong</p></blockquote>
+<p> </p>
+<p><img alt="Jeong Jeong quotes avatar 2" class="lazy lazy-hidden alignnone size-full wp-image-60314" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Jeong-Jeong-quotes-avatar-2.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Jeong Jeong quotes avatar 2" class="alignnone size-full wp-image-60314" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Jeong-Jeong-quotes-avatar-2.jpg" width="550"/></noscript></p>
+<blockquote><p>“To master the bending disciplines you must first master discipline itself, but you have no interest in this so I have no interest in you.” – Jeong Jeong</p></blockquote>
+<p> </p>
+<h3><strong>16. Mai Quotes</strong></h3>
+<p><img alt="Mai quotes avatar" class="lazy lazy-hidden alignnone size-full wp-image-60324" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2019/09/Mai-quotes-avatar.jpg" height="550" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="550"/><noscript><img alt="Mai quotes avatar" class="alignnone size-full wp-image-60324" height="550" src="https://animemotivation.com/wp-content/uploads/2019/09/Mai-quotes-avatar.jpg" width="550"/></noscript></p>
+<blockquote><p>“There really is no fathoming the depths of my hatred for this place.” – Mai</p></blockquote>
+<p>–</p>
+<p><strong>Recommended:</strong></p>
+<p><strong><a href="https://animemotivation.com/fullmetal-alchemist-quotes/">30 Of The Best Fullmetal Alchemist Quotes</a></strong></p>
+<p><strong><a href="https://animemotivation.com/hunter-x-hunter-quotes/">38 Hunter X Hunter Quotes That Will Make You Love The Anime Again</a></strong></p>
+<div class="blog-share text-center"><div class="is-divider medium"></div><div class="social-icons share-icons share-row relative"><a class="icon primary button circle tooltip whatsapp show-for-medium" data-action="share/whatsapp/share" href="whatsapp://send?text=53%2B%20Of%20The%20BEST%20Avatar%3A%20The%20Last%20Airbender%20Quotes%20That%20Will%20Blow%20You%20Away - https://animemotivation.com/avatar-the-last-airbender-quotes/" title="Share on WhatsApp"><i class="icon-whatsapp"></i></a><a class="icon primary button circle tooltip facebook" data-label="Facebook" href="//www.facebook.com/sharer.php?u=https://animemotivation.com/avatar-the-last-airbender-quotes/" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" title="Share on Facebook"><i class="icon-facebook"></i></a><a class="icon primary button circle tooltip twitter" href="//twitter.com/share?url=https://animemotivation.com/avatar-the-last-airbender-quotes/" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" title="Share on Twitter"><i class="icon-twitter"></i></a><a class="icon primary button circle tooltip pinterest" href="//pinterest.com/pin/create/button/?url=https://animemotivation.com/avatar-the-last-airbender-quotes/&amp;media=https://animemotivation.com/wp-content/uploads/2019/09/avatar-anime-wallpaper.jpg&amp;description=53%2B%20Of%20The%20BEST%20Avatar%3A%20The%20Last%20Airbender%20Quotes%20That%20Will%20Blow%20You%20Away" onclick="window.open(this.href,this.title,'width=500,height=500,top=300px,left=300px');  return false;" rel="noopener noreferrer nofollow" target="_blank" title="Pin on Pinterest"><i class="icon-pinterest"></i></a></div></div></div>
+<div class="entry-author author-box">
+<div class="flex-row align-top">
+<div class="flex-col mr circle">
+<div class="blog-author-image">
+<img alt="" class="avatar avatar-90 photo" height="90" src="https://animemotivation.com/wp-content/litespeed/avatar/fda2142e5732ee53ff7c4585490b33e6.jpg" srcset="https://animemotivation.com/wp-content/litespeed/avatar/41afa008a02d55eac37bb413aad05b6f.jpg 2x" width="90"> </img></div>
+</div>
+<div class="flex-col flex-grow">
+<h5 class="author-name uppercase pt-half">
+Anime Motivation </h5>
+<p class="author-desc small">I'm Hikari Yorokobi. The official mascot for Anime Motivation.</p>
+</div>
+</div>
+</div>
+<nav class="navigation-post" id="nav-below" role="navigation">
+<div class="flex-row next-prev-nav bt bb">
+<div class="flex-col flex-grow nav-prev text-left">
+<div class="nav-previous"><a href="https://animemotivation.com/golden-time-quotes/" rel="prev"><span class="hide-for-small"><i class="icon-angle-left"></i></span> A Collection Of Memorable Quotes From “Golden Time” You Won’t EVER Forget</a></div>
+</div>
+<div class="flex-col flex-grow nav-next text-right">
+<div class="nav-next"><a href="https://animemotivation.com/anime-characters-like-erza-scarlet/" rel="next">9 Anime Characters Like Erza Scarlet You Need To Know About! <span class="hide-for-small"><i class="icon-angle-right"></i></span></a></div> </div>
+</div>
+</nav>
+<div class="is-divider divider clearfix"></div>
+<div class="row hide-for-medium large-columns-2 medium-columns-2 small-columns-2 row-full-width">
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/upcoming-anime-autumn-2020/">
+<div class="box box-bounce box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="golden kamuy season 3 anime" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime.jpg" data-srcset="https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime.jpg 1024w, https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime-768x432.jpg 768w" height="576" sizes="(max-width: 1024px) 100vw, 1024px" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" srcset="" width="1024"/><noscript><img alt="golden kamuy season 3 anime" class="attachment-medium size-medium wp-post-image" height="576" sizes="(max-width: 1024px) 100vw, 1024px" src="https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime.jpg" srcset="https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime.jpg 1024w, https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime-768x432.jpg 768w" width="1024"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-xlarge">26+ Upcoming Anime You Need To Know About (Autumn 2020)</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/sailor-moon-eternal-anime-films-delayed-2021/">
+<div class="box box-bounce box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="Sailor Moon Eternal movie 2020 delayed till 2021 e1592508167813" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2020/06/Sailor-Moon-Eternal-movie-2020-delayed-till-2021-e1592508167813.jpg" height="519" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="1024"/><noscript><img alt="Sailor Moon Eternal movie 2020 delayed till 2021 e1592508167813" class="attachment-medium size-medium wp-post-image" height="519" src="https://animemotivation.com/wp-content/uploads/2020/06/Sailor-Moon-Eternal-movie-2020-delayed-till-2021-e1592508167813.jpg" width="1024"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-xlarge">Sailor Moon Eternal Anime Films Delayed Till January 2021 (Coronavirus)</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/upcoming-anime-movies-summer-2020/">
+<div class="box box-bounce box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="shika no ou anime 2020" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2020/06/shika-no-ou-anime-2020.jpg" data-srcset="https://animemotivation.com/wp-content/uploads/2020/06/shika-no-ou-anime-2020.jpg 1024w, https://animemotivation.com/wp-content/uploads/2020/06/shika-no-ou-anime-2020-768x432.jpg 768w" height="576" sizes="(max-width: 1024px) 100vw, 1024px" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" srcset="" width="1024"/><noscript><img alt="shika no ou anime 2020" class="attachment-medium size-medium wp-post-image" height="576" sizes="(max-width: 1024px) 100vw, 1024px" src="https://animemotivation.com/wp-content/uploads/2020/06/shika-no-ou-anime-2020.jpg" srcset="https://animemotivation.com/wp-content/uploads/2020/06/shika-no-ou-anime-2020.jpg 1024w, https://animemotivation.com/wp-content/uploads/2020/06/shika-no-ou-anime-2020-768x432.jpg 768w" width="1024"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-xlarge">10+ Upcoming Anime Movies &amp; OVA’S In Summer 2020!</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/upcoming-anime-summer-2020/">
+<div class="box box-bounce box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="the god of highschool anime wallpaper" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2020/06/the-god-of-highschool-anime-wallpaper.jpeg" data-srcset="https://animemotivation.com/wp-content/uploads/2020/06/the-god-of-highschool-anime-wallpaper.jpeg 1024w, https://animemotivation.com/wp-content/uploads/2020/06/the-god-of-highschool-anime-wallpaper-768x432.jpeg 768w, https://animemotivation.com/wp-content/uploads/2020/06/the-god-of-highschool-anime-wallpaper-1536x863.jpeg 1536w" height="575" sizes="(max-width: 1024px) 100vw, 1024px" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" srcset="" width="1024"/><noscript><img alt="the god of highschool anime wallpaper" class="attachment-medium size-medium wp-post-image" height="575" sizes="(max-width: 1024px) 100vw, 1024px" src="https://animemotivation.com/wp-content/uploads/2020/06/the-god-of-highschool-anime-wallpaper.jpeg" srcset="https://animemotivation.com/wp-content/uploads/2020/06/the-god-of-highschool-anime-wallpaper.jpeg 1024w, https://animemotivation.com/wp-content/uploads/2020/06/the-god-of-highschool-anime-wallpaper-768x432.jpeg 768w, https://animemotivation.com/wp-content/uploads/2020/06/the-god-of-highschool-anime-wallpaper-1536x863.jpeg 1536w" width="1024"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-xlarge">20+ Upcoming Anime TV Shows In Summer 2020 (Official)</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="row hide-for-medium large-columns-2 medium-columns-2 small-columns-2">
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/what-i-love-about-sheele-akame-ga-kill/">
+<div class="box box-bounce box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="Sheele Akame Ga Kill" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2017/07/Sheele-Akame-Ga-Kill.jpg" height="413" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="736"><noscript><img alt="Sheele Akame Ga Kill" class="attachment-medium size-medium wp-post-image" height="413" src="https://animemotivation.com/wp-content/uploads/2017/07/Sheele-Akame-Ga-Kill.jpg" width="736"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </img></div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-xlarge">5 Things I Love About Sheele From Akame Ga Kill</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/alice-to-zouroku-quotes/">
+<div class="box box-bounce box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="Alice To Zouroku Sana Kashimura" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2017/07/Alice-To-Zouroku-Sana-Kashimura.jpg" height="563" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="1000"><noscript><img alt="Alice To Zouroku Sana Kashimura" class="attachment-medium size-medium wp-post-image" height="563" src="https://animemotivation.com/wp-content/uploads/2017/07/Alice-To-Zouroku-Sana-Kashimura.jpg" width="1000"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </img></div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-xlarge">12 Alice To Zouroku Quotes That Will Hit You Right In The *Feels*</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/dark-skinned-anime-characters/">
+<div class="box box-bounce box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="Ryuugajou Nanana Dark Skinned Anime Girl 1" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2017/07/Ryuugajou-Nanana-dark-skinned-anime-girl-1.jpg" height="563" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="1000"><noscript><img alt="Ryuugajou Nanana Dark Skinned Anime Girl 1" class="attachment-medium size-medium wp-post-image" height="563" src="https://animemotivation.com/wp-content/uploads/2017/07/Ryuugajou-Nanana-dark-skinned-anime-girl-1.jpg" width="1000"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </img></div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-xlarge">11 Of The Most Interesting Dark/Light Skinned Characters In Anime</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/bungou-stray-dogs-quotes/">
+<div class="box box-bounce box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="Bungou Stray Dogs" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2017/07/Bungou-Stray-Dogs.jpg" height="563" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="1000"><noscript><img alt="Bungou Stray Dogs" class="attachment-medium size-medium wp-post-image" height="563" src="https://animemotivation.com/wp-content/uploads/2017/07/Bungou-Stray-Dogs.jpg" width="1000"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </img></div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-xlarge">6 Anime Quotes From Bungou Stray Dogs That Are Worth Sharing</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="row show-for-medium large-columns-2 medium-columns-2 small-columns-1 row-full-width">
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/upcoming-anime-autumn-2020/">
+<div class="box box-default box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="golden kamuy season 3 anime" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime.jpg" data-srcset="https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime.jpg 1024w, https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime-768x432.jpg 768w" height="576" sizes="(max-width: 1024px) 100vw, 1024px" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" srcset="" width="1024"/><noscript><img alt="golden kamuy season 3 anime" class="attachment-medium size-medium wp-post-image" height="576" sizes="(max-width: 1024px) 100vw, 1024px" src="https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime.jpg" srcset="https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime.jpg 1024w, https://animemotivation.com/wp-content/uploads/2020/06/golden-kamuy-season-3-anime-768x432.jpg 768w" width="1024"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-larger">26+ Upcoming Anime You Need To Know About (Autumn 2020)</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/sailor-moon-eternal-anime-films-delayed-2021/">
+<div class="box box-default box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="Sailor Moon Eternal movie 2020 delayed till 2021 e1592508167813" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2020/06/Sailor-Moon-Eternal-movie-2020-delayed-till-2021-e1592508167813.jpg" height="519" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="1024"/><noscript><img alt="Sailor Moon Eternal movie 2020 delayed till 2021 e1592508167813" class="attachment-medium size-medium wp-post-image" height="519" src="https://animemotivation.com/wp-content/uploads/2020/06/Sailor-Moon-Eternal-movie-2020-delayed-till-2021-e1592508167813.jpg" width="1024"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-larger">Sailor Moon Eternal Anime Films Delayed Till January 2021 (Coronavirus)</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="row show-for-medium large-columns-2 medium-columns-2 small-columns-1 row-full-width">
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/what-i-love-about-sheele-akame-ga-kill/">
+<div class="box box-default box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="Sheele Akame Ga Kill" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2017/07/Sheele-Akame-Ga-Kill.jpg" height="413" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="736"><noscript><img alt="Sheele Akame Ga Kill" class="attachment-medium size-medium wp-post-image" height="413" src="https://animemotivation.com/wp-content/uploads/2017/07/Sheele-Akame-Ga-Kill.jpg" width="736"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </img></div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-larger">5 Things I Love About Sheele From Akame Ga Kill</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col post-item">
+<div class="col-inner">
+<a class="plain" href="https://animemotivation.com/alice-to-zouroku-quotes/">
+<div class="box box-default box-text-bottom box-blog-post has-hover">
+<div class="box-image">
+<div class="image-overlay-remove image-cover" style="padding-top:56%;">
+<img alt="Alice To Zouroku Sana Kashimura" class="lazy lazy-hidden attachment-medium size-medium wp-post-image" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2017/07/Alice-To-Zouroku-Sana-Kashimura.jpg" height="563" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="1000"><noscript><img alt="Alice To Zouroku Sana Kashimura" class="attachment-medium size-medium wp-post-image" height="563" src="https://animemotivation.com/wp-content/uploads/2017/07/Alice-To-Zouroku-Sana-Kashimura.jpg" width="1000"/></noscript> <div class="overlay" style="background-color: rgba(0, 0, 0, 0.09)"></div> </img></div>
+</div>
+<div class="box-text show-on-hover hover-bounce text-center" style="padding:10% 0px 10% 0px;">
+<div class="box-text-inner blog-post-inner">
+<h5 class="post-title is-larger">12 Alice To Zouroku Quotes That Will Hit You Right In The *Feels*</h5>
+<div class="is-divider"></div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div> </div>
+</article>
+<div class="comments-area" id="comments">
+<h3 class="comments-title uppercase">
+One thought on “<span>53+ Of The BEST Avatar: The Last Airbender Quotes That Will Blow You Away</span>” </h3>
+<ol class="comment-list">
+<li class="comment even thread-even depth-1" id="li-comment-8103">
+<article class="comment-inner" id="comment-8103">
+<div class="flex-row align-top">
+<div class="flex-col">
+<div class="comment-author mr-half">
+<img alt="" class="avatar avatar-70 photo" height="70" src="https://animemotivation.com/wp-content/litespeed/avatar/096e79f71055835f1480b3525b81a8a7.jpg" srcset="https://animemotivation.com/wp-content/litespeed/avatar/bf160229c65c8aff5d996478614f7081.jpg 2x" width="70"> </img></div>
+</div>
+<div class="flex-col flex-grow">
+<cite class="strong fn">Elle Bent</cite> <span class="says">says:</span>
+<div class="comment-content"><p>The Airbender memorable quotes. Thanks for sharing</p>
+</div>
+<div class="comment-meta commentmetadata uppercase is-xsmall clear">
+<a href="https://animemotivation.com/avatar-the-last-airbender-quotes/#comment-8103"><time class="pull-left" datetime="2019-09-23T08:43:10+01:00">
+23/09/2019 at 8:43 am </time></a>
+<div class="reply pull-right">
+<a aria-label="Reply to Elle Bent" class="comment-reply-link" data-belowelement="comment-8103" data-commentid="8103" data-postid="60242" data-respondelement="respond" href="#comment-8103" rel="nofollow">Reply</a> </div>
+</div>
+</div>
+</div>
+</article>
+</li>
+</ol>
+<div class="comment-respond" id="respond">
+<h3 class="comment-reply-title" id="reply-title">Leave a Reply <small><a href="/avatar-the-last-airbender-quotes/#respond" id="cancel-comment-reply-link" rel="nofollow" style="display:none;">Cancel reply</a></small></h3><form action="https://animemotivation.com/wp-comments-post.php" class="comment-form" id="commentform" method="post" novalidate=""><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea cols="45" id="comment" maxlength="65525" name="comment" required="required" rows="8"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" maxlength="245" name="author" required="required" size="30" type="text" value=""/></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input aria-describedby="email-notes" id="email" maxlength="100" name="email" required="required" size="30" type="email" value=""/></p>
+<p class="cnns-comment-subscription" id="lstc-comment-subscription"><input checked="checked" id="lstc_subscribe" name="lstc_subscribe" type="checkbox" value="1"/> <label class="lstc-label" for="lstc_subscribe" id="cnns-label">Notify me when new comments are added.</label></p> <p class="comment-form-attachment">
+<label for="attachment">
+Attachment </label>
+<input id="attachment" name="attachment" type="file"/>
+<br/>The maximum upload file size: 5 MB.<br/>You can upload: <abbr title="jpg, jpeg, jpe, gif, png, bmp, tiff, tif, ico">image</abbr>, <abbr title="mp3, m4a, m4b, aac, ram, wav, ogg, oga, flac, wma, mka">audio</abbr>, <abbr title="asf, wmv, avi, divx, flv, mov, qt, mpeg, mpg, mp4, m4v, ogv, mkv, 3gp, 3gpp, 3g2">video</abbr>, <abbr title="rtf, pdf, psd, xcf, doc, docx, docm, dotm, oxps, xps, odt, wp, wpd, pages">document</abbr>, <abbr title="xls, xlsx, xlsm, xlsb, ods, numbers">spreadsheet</abbr>, <abbr title="pps, ppt, pptx, pptm, ppsx, ppsm, sldx, sldm, odp, key">interactive</abbr>, <abbr title="txt, asc, csv, tsv">text</abbr>, <abbr title="tar, zip, gz, rar, 7z">archive</abbr>, <abbr title="css">code</abbr>, <abbr title="asx, wmx, wm, mpe, webm, 3gp2, c, cc, h, srt, ics, rtx, vtt, dfxp, ra, mid, midi, wax, class, gzip, pot, wri, xla, xlt, xlw, mdb, mpp, dotx, xltx, xltm, xlam, potx, potm, ppam, onetoc, onetoc2, onetmp, onepkg, odg, odc, odb, odf">other</abbr>.<br/>Links to YouTube, Facebook, Twitter and other services inserted in the comment text will be automatically embedded. </p>
+<p class="form-submit"><input class="submit" id="submit" name="submit" type="submit" value="Post Comment"/> <input id="comment_post_ID" name="comment_post_ID" type="hidden" value="60242"/>
+<input id="comment_parent" name="comment_parent" type="hidden" value="0"/>
+</p></form> </div>
+</div>
+</div>
+<div class="post-sidebar large-3 col">
+<div class="widget-area" id="secondary" role="complementary">
+<div class="awd-hidden-phone"><aside class="widget block_widget" id="block_widget-47">
+<span class="widget-title"><span>Follow Anime Motivation:</span></span><div class="is-divider small"></div>
+<div class="social-icons follow-icons"><a class="icon primary button circle facebook tooltip" data-label="Facebook" href="https://facebook.com/animemotivate" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Facebook"><i class="icon-facebook"></i></a><a class="icon primary button circle instagram tooltip" data-label="Instagram" href="https://instagram.com/animemotivate" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Instagram"><i class="icon-instagram"></i></a><a class="icon primary button circle twitter tooltip" data-label="Twitter" href="https://twitter.com/animemotivate" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Twitter"><i class="icon-twitter"></i></a><a class="icon primary button circle pinterest tooltip" data-label="Pinterest" href="https://pinterest.com/animemotivation/" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Pinterest"><i class="icon-pinterest"></i></a><a class="icon primary button circle linkedin tooltip" data-label="LinkedIn" href="https://linkedin.com/company/anime-motivation/" rel="noopener noreferrer nofollow" target="_blank" title="Follow on LinkedIn"><i class="icon-linkedin"></i></a></div>
+</aside></div>
+<div class="awd-hidden-phone ai-sticky-widget"><aside class="widget ai_widget" id="ai_widget-3"><div class="code-block code-block-7" style="margin: 8px auto; text-align: center; display: block; clear: both;">
+<div id="div-gpt-ad-1585656583746-0" style="width: 120px; height: 600px;">
+<script> 
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1585656583746-0'); });
+  </script>
+</div></div>
+</aside></div><div class="awd-visible-desktop"><aside class="widget widget_text" id="text-35"> <div class="textwidget"><p><a href="https://funimation.8u86.net/c/2360928/790045/4688" rel="nofollow noopener noreferrer" target="_blank"><img alt="" class="lazy lazy-hidden alignnone size-full wp-image-69680" data-lazy-type="image" data-src="https://animemotivation.com/wp-content/uploads/2020/06/funimation-streaming-1.png" height="461" src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" width="480"><noscript><img alt="" class="alignnone size-full wp-image-69680" height="461" src="https://animemotivation.com/wp-content/uploads/2020/06/funimation-streaming-1.png" width="480"/></noscript></img></a></p>
+</div>
+</aside></div></div>
+</div>
+</div>
+</div>
+</main>
+<footer class="footer-wrapper" id="footer">
+<div class="footer-widgets footer footer-2 dark">
+<div class="row dark large-columns-4 mb-0">
+<div class="col pb-0 widget widget_nav_menu" id="nav_menu-11"><div class="menu-footer-menu-company-container"><ul class="menu" id="menu-footer-menu-company"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59411" id="menu-item-59411"><a href="https://animemotivation.com/about/the-company/">What Is Anime Motivation?</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46309" id="menu-item-46309"><a href="https://animemotivation.com/about/theo-ellis/">Meet The Founder</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59410" id="menu-item-59410"><a href="https://animemotivation.com/anime-partners/">Anime Partners</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-65659" id="menu-item-65659"><a href="https://animemotivation.com/faq/">FAQ</a></li>
+</ul></div></div><div class="col pb-0 widget widget_nav_menu" id="nav_menu-10"><div class="menu-footer-menu-services-container"><ul class="menu" id="menu-footer-menu-services"><li class="label-popular menu-item menu-item-type-custom menu-item-object-custom menu-item-69672" id="menu-item-69672"><a href="https://funimation.8u86.net/c/2360928/353533/4688" rel="noopener noreferrer" target="_blank">Funimation (Free Trial)</a></li>
+<li class="label-sale menu-item menu-item-type-custom menu-item-object-custom menu-item-66392" id="menu-item-66392"><a href="https://www.teepublic.com/stores/anime-motivation?ref_id=11615" rel="noopener noreferrer" target="_blank">Merch</a></li>
+<li class="labelsale menu-item menu-item-type-custom menu-item-object-custom menu-item-66393" id="menu-item-66393"><a href="https://shrsl.com/26o9k/" rel="noopener noreferrer" target="_blank">Cosplay</a></li>
+<li class="label-sale menu-item menu-item-type-custom menu-item-object-custom menu-item-66394" id="menu-item-66394"><a href="https://shrsl.com/26o9x/" rel="noopener noreferrer" target="_blank">Collectables</a></li>
+</ul></div></div><div class="col pb-0 widget widget_nav_menu" id="nav_menu-12"><div class="menu-footer-menu-shop-container"><ul class="menu" id="menu-footer-menu-shop"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46311" id="menu-item-46311"><a href="https://animemotivation.com/message/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-46315" id="menu-item-46315"><a href="https://animemotivation.com/privacy/">Privacy Policy</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51131" id="menu-item-51131"><a href="https://animemotivation.com/content-policy/">Affiliate/Ads Policy</a></li>
+</ul></div></div>
+<div class="col pb-0 widget block_widget" id="block_widget-43">
+<span class="widget-title">Social Media:</span><div class="is-divider small"></div>
+<div class="social-icons follow-icons"><a class="icon primary button circle facebook tooltip" data-label="Facebook" href="https://facebook.com/animemotivate" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Facebook"><i class="icon-facebook"></i></a><a class="icon primary button circle instagram tooltip" data-label="Instagram" href="https://instagram.com/animemotivate" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Instagram"><i class="icon-instagram"></i></a><a class="icon primary button circle twitter tooltip" data-label="Twitter" href="https://twitter.com/animemotivate" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Twitter"><i class="icon-twitter"></i></a><a class="icon primary button circle pinterest tooltip" data-label="Pinterest" href="https://pinterest.com/animemotivation/" rel="noopener noreferrer nofollow" target="_blank" title="Follow on Pinterest"><i class="icon-pinterest"></i></a><a class="icon primary button circle linkedin tooltip" data-label="LinkedIn" href="https://linkedin.com/company/anime-motivation/" rel="noopener noreferrer nofollow" target="_blank" title="Follow on LinkedIn"><i class="icon-linkedin"></i></a></div>
+</div>
+<div class="col pb-0 widget widget_text" id="text-34"><span class="widget-title">Recommended Site:</span><div class="is-divider small"></div> <div class="textwidget"><p><a href="http://bakabuzz.com" rel="noopener noreferrer" target="_blank">bakabuzz.com</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="absolute-footer dark medium-text-center text-center">
+<div class="container clearfix">
+<div class="footer-primary pull-left">
+<div class="copyright-footer">
+Copyright © animemotivation.com 2020. All rights reserved </div>
+</div>
+</div>
+</div>
+<a class="back-to-top button icon invert plain fixed bottom z-1 is-outline circle" href="#top" id="top-link"><i class="icon-angle-up"></i></a>
+</footer>
+</div>
+<div class="mobile-sidebar no-scrollbar mfp-hide" id="main-menu">
+<div class="sidebar-menu no-scrollbar">
+<ul class="nav nav-sidebar nav-vertical nav-uppercase">
+<li class="label-new menu-item menu-item-type-custom menu-item-object-custom menu-item-60521" id="menu-item-60521"><a href="https://animemotivation.com/blog/">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59835" id="menu-item-59835"><a href="https://animemotivation.com/category/recommended/">Recommended</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-59834" id="menu-item-59834"><a href="https://animemotivation.com/category/quotes/">Quotes</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59837" id="menu-item-59837"><a href="https://animemotivation.com/category/life-lessons/">Life Lessons</a></li>
+<li class="label-hot menu-item menu-item-type-post_type menu-item-object-post menu-item-68619" id="menu-item-68619"><a href="https://animemotivation.com/adult-anime-games/">Hentai Games</a></li>
+<li class="label-sale menu-item menu-item-type-post_type menu-item-object-page menu-item-68820" id="menu-item-68820"><a href="https://animemotivation.com/store/anime-merchandise/">Merch</a></li>
+<li class="label-popular menu-item menu-item-type-custom menu-item-object-custom menu-item-69671" id="menu-item-69671"><a href="https://funimation.8u86.net/c/2360928/353533/4688" rel="noopener noreferrer" target="_blank">Anime Streaming</a></li>
+<li class="header-contact-wrapper">
+<ul class="nav nav-divided nav-uppercase header-contact" id="header-contact">
+<li class="">
+<a class="tooltip" href="mailto:message@animemotivation.com" title="message@animemotivation.com">
+<i class="icon-envelop" style="font-size:19px;"></i> <span>
+Message </span>
+</a>
+</li>
+</ul>
+</li> </ul>
+</div>
+</div>
+<script type="text/javascript">
+							jQuery("#post-60242 .entry-meta .date").css("display","none");
+					jQuery("#post-60242 .entry-date").css("display","none");
+					jQuery("#post-60242 .posted-on").css("display","none");
+							jQuery("#post-14287 .entry-meta .date").css("display","none");
+					jQuery("#post-14287 .entry-date").css("display","none");
+					jQuery("#post-14287 .posted-on").css("display","none");
+							jQuery("#post-14078 .entry-meta .date").css("display","none");
+					jQuery("#post-14078 .entry-date").css("display","none");
+					jQuery("#post-14078 .posted-on").css("display","none");
+							jQuery("#post-14103 .entry-meta .date").css("display","none");
+					jQuery("#post-14103 .entry-date").css("display","none");
+					jQuery("#post-14103 .posted-on").css("display","none");
+							jQuery("#post-13615 .entry-meta .date").css("display","none");
+					jQuery("#post-13615 .entry-date").css("display","none");
+					jQuery("#post-13615 .posted-on").css("display","none");
+				</script>
+<script type="text/javascript">
+window.FPConfig= {
+	delay: 3600,
+	ignoreKeywords: ["\/wp-admin","\/wp-login.php","\/cart","add-to-cart","logout","#","?",".png",".jpeg",".jpg",".gif",".svg"],
+	maxRPS: 10,
+    hoverDelay: 0
+};
+</script>
+<script defer="" src="https://animemotivation.com/wp-content/plugins/flying-pages/flying-pages.min.js" type="text/javascript"></script>
+<script src="https://animemotivation.com/wp-content/plugins/dco-comment-attachment/assets/dco-comment-attachment.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js" type="text/javascript"></script>
+<script src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0","horizontal_container_classnames":""};
+/* ]]> */
+</script>
+<script src="//animemotivation.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js" type="text/javascript"></script>
+<script src="https://animemotivation.com/wp-includes/js/hoverIntent.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var flatsomeVars = {"ajaxurl":"https:\/\/animemotivation.com\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"70","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false}};
+/* ]]> */
+</script>
+<script src="https://animemotivation.com/wp-content/themes/flatsome/assets/js/flatsome.js" type="text/javascript"></script>
+<script src="https://animemotivation.com/wp-includes/js/comment-reply.min.js" type="text/javascript"></script>
+<script src="https://animemotivation.com/wp-content/plugins/reduce-bounce-rate/js/analyticsjs.js" type="text/javascript"></script>
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" type="text/javascript"></script>
+<script type="text/javascript">
+var infolinks_pid = 3259153;
+var infolinks_wsid = 0;
+</script>
+<script src="//resources.infolinks.com/js/infolinks_main.js" type="text/javascript"></script><script>
+/* <![CDATA[ */
+ai_front = {"insertion_before":"BEFORE","insertion_after":"AFTER","insertion_prepend":"PREPEND CONTENT","insertion_append":"APPEND CONTENT","insertion_replace_content":"REPLACE CONTENT","insertion_replace_element":"REPLACE ELEMENT","visible":"VISIBLE","hidden":"HIDDEN","fallback":"FALLBACK","automatically_placed":"Automatically placed by AdSense Auto ads code","cancel":"Cancel","use":"Use","add":"Add","parent":"Parent","cancel_element_selection":"Cancel element selection","select_parent_element":"Select parent element","css_selector":"CSS selector","use_current_selector":"Use current selector","element":"ELEMENT","path":"PATH","selector":"SELECTOR"};
+/* ]]> */
+function ai_run_scripts(){jQuery(document).ready(function(m){var d=function(c){var d=0,h=15,k=c(document).width();c(".ai-sticky-widget").each(function(){for(var b=c(this),l=b.width(),e=!1,a=b.parent();"BODY"!=a.prop("tagName");){if(a.hasClass("theiaStickySidebar")){e=!0;break}var f=a.parent(),g=f.width();if(g>1.2*l||g>k/2)break;a=f}e||(b=a.offset().top-b.offset().top+h,0==d?("sticky"!=a.css("position")||isNaN(parseInt(a.css("top")))||a.css("top")<b)&&a.css("position",
+"sticky").css("position","-webkit-sticky").css("top",b):a.theiaStickySidebar({additionalMarginTop:b,sidebarBehavior:"stick-to-top"}))})};"undefined"==typeof ai_sticky_sidebar_delay&&(ai_sticky_sidebar_delay=20);setTimeout(function(){d(jQuery)},ai_sticky_sidebar_delay)});
+
+ai_js_code = true;
+}
+function ai_wait_for_jquery(){function b(b,c){var a=document.createElement("script");a.src=b;var d=document.getElementsByTagName("head")[0],e=!1;a.onload=a.onreadystatechange=function(){e||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(e=!0,c&&c(),a.onload=a.onreadystatechange=null,d.removeChild(a))};d.appendChild(a)}window.jQuery?ai_run_scripts():(ai_jquery_waiting_counter++,4==ai_jquery_waiting_counter&&b("https://animemotivation.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",function(){b("https://animemotivation.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=5.4.2",null)}),30>ai_jquery_waiting_counter&&
+setTimeout(function(){ai_wait_for_jquery()},50))}ai_jquery_waiting_counter=0;ai_wait_for_jquery();
+
+</script>
+</body>
+</html>
+
